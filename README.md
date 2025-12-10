@@ -1,4 +1,29 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Harinii!;Welcome+to+my+profile!&center=true&size=30&color=ffffff&background=000000&cursor=true" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Harini!;Welcome+to+my+profile!&center=true&size=30&color=000000&background=ffffff&cursor=true" />
+  </picture>
+</p>
+<!-- Main Intro Section -->
 
+
+### 😎 I'm Harini
+*Computer Science Engineer*
+
+
+
+---
+I am a passionate **Software Developer** with a strong interest in  
+**Java, Python, C++, Web Development (HTML, CSS, JS, React), SQL, PostgreSQL, Spring Boot, Firebase**,  
+and building creative projects that solve real problems.
+
+- 🌱 *Student for life — always learning something new!*  
+- 🚀 Currently exploring **Full-Stack Development & Security**  
+- ✍️ I write and document my learnings  
+- 💡 I love building tools, automations, and fun UI projects  
+
+
+![Profile views](https://komarev.com/ghpvc/?username=harinii-a&style=for-the-badge&color=blue)
 
 <!--
 **harinii-a/harinii-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +39,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername/)
+[![SkillRack](https://img.shields.io/badge/SkillRack-0E76A8?style=for-the-badge&logo=skillshare&logoColor=white)](https://skillrack.com/yourusername/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername/)
+
 ### 💻 I Code In
 <p align="left">
   <!-- Java -->
