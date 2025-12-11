@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <p align="left">
   <!-- Java -->
   <img title="Java" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+    <!-- Spring Boot -->
+  <img title="Spring Boot" height="50" src="https://img.icons8.com/color/48/spring-logo.png"/>
 
   <!-- Python -->
   <img title="Python" height="50" src="https://img.icons8.com/color/48/python.png"/>
@@ -77,8 +79,7 @@ Here are some ideas to get you started:
   <!-- PostgreSQL -->
   <img title="PostgreSQL" height="50" src="https://img.icons8.com/color/48/postgreesql.png"/>
 
-  <!-- Spring Boot -->
-  <img title="Spring Boot" height="50" src="https://img.icons8.com/color/48/spring-logo.png"/>
+
 
   <!-- Firebase -->
   <img title="Firebase" height="50" src="https://img.icons8.com/color/48/firebase.png"/>
