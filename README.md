@@ -56,6 +56,7 @@ Here are some ideas to get you started:
   <!-- Python -->
   <img title="Python" height="50" src="https://img.icons8.com/color/48/python.png"/>
 
+ 
   <!-- C++ -->
   <img title="C++" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
 
@@ -79,6 +80,7 @@ Here are some ideas to get you started:
   <!-- PostgreSQL -->
   <img title="PostgreSQL" height="50" src="https://img.icons8.com/color/48/postgreesql.png"/>
 
+ <img title="Python" height="50" src="https://pic.clubic.com/v1/images/2092986/raw"/>
 
 
   <!-- Firebase -->
